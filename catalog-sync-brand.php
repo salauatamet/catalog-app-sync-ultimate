@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Catalog.app Sync Ultimate v7.1
+ * Plugin Name: Catalog.app Sync Ultimate v7.2
  * Description: ПМощный плагин для автоматической синхронизации товаров, цен и остатков из Catalog.app в WooCommerce. Полностью автоматизирует процесс обновления каталога с поддержкой до 40,000+ товаров.
  * Version: 7.1
  * Author: SalauatDiiN Ahmetov & Meteorit
