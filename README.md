@@ -1,4 +1,4 @@
-# Catalog.app Sync Ultimate v7.1
+# Catalog.app Sync Ultimate v7.2
 
 **Автор:** SalauatDiiN Ahmetov & Meteorit  
 **Версия:** 7.2  
